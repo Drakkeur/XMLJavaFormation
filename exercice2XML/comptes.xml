@@ -1,0 +1,16 @@
+<comptes>
+<compte>
+  <numCompte>1</numCompte>
+  <nomProprietaire>maxime</nomProprietaire>
+  <solde>500.0</solde>
+  <dateCreation>2021-02-21</dateCreation>
+  <typeCompte>Epargne</typeCompte>
+</compte>
+<compte>
+  <numCompte>2</numCompte>
+  <nomProprietaire>loic</nomProprietaire>
+  <solde>4000.0</solde>
+  <dateCreation>2015-03-24</dateCreation>
+  <typeCompte>Courant</typeCompte>
+</compte>
+</comptes>
